@@ -1,5 +1,5 @@
 # My very first website
 
-Welcome! [Code Institute] (https://codeinstitute.net)
+Welcome![Link to code institute] (https://codeinstitute.net)
 
 
